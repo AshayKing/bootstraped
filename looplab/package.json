@@ -1,0 +1,34 @@
+{
+  "name": "looplab",
+  "version": "1.0.0",
+  "description": "This is Looplab project",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshayKing/bootstraped.git"
+  },
+  "keywords": [
+    "bootstrap4",
+    "starter"
+  ],
+  "author": "Ashay S Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AshayKing/bootstraped/issues"
+  },
+  "homepage": "https://github.com/AshayKing/bootstraped#readme",
+  "dependencies": {
+    "bootstrap": "4.1.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
